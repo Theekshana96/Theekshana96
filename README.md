@@ -1,5 +1,5 @@
 
-  ### Hi, I'm Dilshan_Theekshana ✨
+  ### Hi, I'm Dilshan....✨
   ✨ I'm a Undergraduate at University of Moratuwa ✨
 
 - 🔭 I’m currently studying in Faculty of IT, University of Moratuwa
