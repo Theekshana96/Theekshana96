@@ -10,7 +10,7 @@
 
 <br/>
 
-### Languages and Tools...
+### Languages and Tools...✨
 
 <img align="left" alt="Visual Studio Code" width="50" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png" />
@@ -25,15 +25,15 @@
 <br/>
 <br/>
 
-## Statistics...
+## Statistics...✨
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Theekshana96&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshana96&theme=radical"/>|
 |---|---|
 </br>
-</br>
 
-## TOP PROGRAMMING LANGUAGES ✨
+
+## TOP PROGRAMMING LANGUAGES...✨
 </br>
 <p align="center"><img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
