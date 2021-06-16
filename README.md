@@ -2,14 +2,10 @@
   ### Hi, I'm Dilshan Theekshana....✨
  
 
-- 🔭 I’m currently studying in Faculty of IT, University of Moratuwa
-
+- 🔭 I’m currently working on React project
 - 🌱 I’m currently learning Laravel, React, MySQL and MongoDB
-
 - 👯 I’m looking to collaborate with other content creators
-
 - 📫 How to reach me:theekshanajayarathne@gmail.com
-
 - ⚡ Fun fact: I love playing online Games
 
 
