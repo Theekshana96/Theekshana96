@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Laravel, React, MySQL and MongoDB
 - 👯 I’m looking to collaborate with other content creators
-- 📫 How to reach me:theekshanajayarathne@gmail.com
+- 📫 How to reach me: theekshanajayarathne@gmail.com
 - ⚡ Fun fact: I love playing online Games
 
 
