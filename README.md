@@ -3,7 +3,8 @@
 <h3 align="center"><img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47e1rtdpsvc4ydba45p7jb9nj8tfdoz23jwt9lm7j4&rid=giphy.gif&ct=g" ></h3>
 </br>
  
-- 🎓 I’m currently studying at University of Moratuwa
+<h2> I'm a Undergraduate at University of Moratuwa!! ✨</h2>
+
 - 💞️ I’m passionate in Web Development
 - 💬 Ask me about Laravel, MySQL, MERN Stack
 - 👯 I’m looking to collaborate with other content creators
