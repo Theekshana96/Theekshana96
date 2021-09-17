@@ -8,7 +8,6 @@
 - 📫 How to reach me: theekshanajayarathne@gmail.com
 - ⚡ Fun fact: I love playing online Games
 
-
 <br/>
 
 ### Languages and Tools...✨
