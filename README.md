@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Dilshan Theekshana....👋 </h1>
-</br>
+
 <h3 align="center"><img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47e1rtdpsvc4ydba45p7jb9nj8tfdoz23jwt9lm7j4&rid=giphy.gif&ct=g" ></h3>
 </br>
  
