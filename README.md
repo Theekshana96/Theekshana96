@@ -1,5 +1,5 @@
 
-  ### Hi, I'm Dilshan Theekshana....👋
+### Hi, I'm Dilshan Theekshana....👋
  
 
 - 🌱 I’m currently studying at University of Moratuwa
@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: theekshanajayarathne@gmail.com
 - ⚡ Fun fact: I love playing online Games
+<br/>
 
 ### Languages and Tools...✨
 
@@ -23,6 +24,7 @@
 <img align="left" alt="React" width="50" height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="mysql" width="50" height="45"/>
 
 
+<br/>
 <br/>
 <br/>
 
