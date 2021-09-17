@@ -24,8 +24,7 @@
 <img align="left" alt="Mongo" width="70" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="50" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="React" width="50" height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="mysql" width="50" height="45"/>
-<img align="left" alt="CSS3" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="mysql" width="50" height="45"/> </a>
+
 
 <br/>
 <br/>
