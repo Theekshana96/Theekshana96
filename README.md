@@ -1,45 +1,39 @@
-<h1 align="center">👋 Hi, I'm Dilshan Theekshana....👋 </h1>
-
-<h3 align="center"><img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47e1rtdpsvc4ydba45p7jb9nj8tfdoz23jwt9lm7j4&rid=giphy.gif&ct=g" ></h3>
-</br>
- 
-<h2> I'm a Undergraduate at University of Moratuwa!! ✨</h2>
+<h2> Hi, I'm Dilshan Theekshana....👋</h2>
 
 - 💞️ I’m passionate in Web Development
 - 💬 Ask me about Laravel, MySQL, MERN Stack
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: theekshanajayarathne@gmail.com
-- ⚡ Fun fact: I love playing online Games
+- ⚡ Fun fact: I love playing Online Games
 <br/>
 
-### Languages and Tools...✨
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<img align="left" alt="Visual Studio Code" width="50" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png" />
-<img align="left" alt="React" width="50" height="45" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="mysql" width="50" height="45"/>
-<img align="left" alt="React" width="70" height="65" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="50" height="45"/>
-<img align="left" alt="Node.js" width="50" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="50" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="50" height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="mysql" width="50" height="45"/>
+<img align="left" alt="React" width="50" height="45" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" />
+<img align="left" alt="Node" width="50" height="45" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" />
+<img align="left" alt="express" width="50" height="45" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" alt="mysql" width="50" height="45"/>
+<img align="left" alt="laravel" width="50" height="45" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" height="45"/>
+<img align="left" alt="mysql" width="70" height="65" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="50" height="45"/>
+<img align="left" alt="Mongo" width="80" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
+<img align="left" alt="js" width="50" height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="50" height="45"/>
 <img align="left" alt="SQL" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Mongo" width="70" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="50" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="React" width="50" height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="mysql" width="50" height="45"/>
+<img align="left" alt="java" width="50" height="45" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png" />
+
 
 
 <br/>
 <br/>
 <br/>
 
-### Statistics...✨
 
+<h2>Stats <img src = "https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif?cid=ecf05e47zpy2p0ufbyvd1652j0gydr1qt7he8o5suenzr0vp&rid=giphy.gif&ct=s" width = 32px></h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Theekshana96&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshana96&theme=radical"/>|
 |---|---|
 </br>
 
 
-### Most Used Programming Languages...✨
+<h2>Most Used Languages <img src = "https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif?cid=ecf05e47vfcgm2h4scxocnaqdfr33vhvjzpfclhgfdrinxe7&rid=giphy.gif&ct=ts" width = 60px></h2>
 </br>
 <p align="center"><img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
@@ -47,7 +41,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&
 </br>
 </br>
 
-### 🔍Connect with me...✨
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 </br>
 <a href="theekshanajayarathne@gmail.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="facebook" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/dilshan-theekshana" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
