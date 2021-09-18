@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: theekshanajayarathne@gmail.com
 - ⚡ Fun fact: I love playing Online Games
-<br/>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -38,8 +37,6 @@
 <p align="center"><img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
 
-</br>
-</br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 </br>
