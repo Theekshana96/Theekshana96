@@ -45,6 +45,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&
 <a href="https://stackoverflow.com/users/15058027/dilshan-theekshana" target="_blank"> <img align="left" alt="stackoverflow" width="40" height="40" src="https://i.ibb.co/GkH8ss6/apple-touch-icon-2.png" /></a>
 <a href="https://www.hackerrank.com/Dilshan96" target="_blank"> <img align="left" alt="hackerrank" width="40" height="40" src="https://i.ibb.co/WWkmJdP/Hacker-Rank-Icon-1000px.png" /></a> 
 <a href="https://theekshanajayarathne.medium.com" target="_blank"> <img align="left" alt="medium" width="40" height="40" src="https://i.ibb.co/PhsGSzb/unnamed.png" /></a>  
-
+</br>
+</br>
+</br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Theekshana96&label=Profile%20views&color=0e75b6&style=flat" alt="Theekshana96" /></p>
+<p align="center"> <img src="https://badges.pufler.dev/years/Theekshana96" alt="Theekshana96" />
 
  
