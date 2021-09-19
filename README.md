@@ -12,7 +12,7 @@
 <img align="left" alt="Node" width="50" height="45" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" />
 <img align="left" alt="express" width="50" height="45" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" alt="mysql" width="50" height="45"/>
 <img align="left" alt="laravel" width="50" height="45" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" height="45"/>
-<img align="left" alt="mysql" width="70" height="65" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="50" height="45"/>
+<img align="left" alt="mysql" width="70" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50" height="45"/>
 <img align="left" alt="Mongo" width="80" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
 <img align="left" alt="js" width="50" height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="50" height="45"/>
 <img align="left" alt="SQL" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -22,14 +22,13 @@
 
 <br/>
 <br/>
-<br/>
+
 
 
 <h2>Stats <img src = "https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif?cid=ecf05e47zpy2p0ufbyvd1652j0gydr1qt7he8o5suenzr0vp&rid=giphy.gif&ct=s" width = 32px></h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Theekshana96&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshana96&theme=radical"/>|
 |---|---|
-</br>
 
 
 <h2>Most Used Languages <img src = "https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif?cid=ecf05e47vfcgm2h4scxocnaqdfr33vhvjzpfclhgfdrinxe7&rid=giphy.gif&ct=ts" width = 60px></h2>
