@@ -8,15 +8,16 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<img align="left" alt="React" width="50" height="45" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" />
-<img align="left" alt="Node" width="50" height="45" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" />
-<img align="left" alt="express" width="50" height="45" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg" alt="mysql" width="50" height="45"/>
+<img align="left" alt="React" width="50" height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="Node" width="50" height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img align="left" alt="express" width="50" height="45" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="mysql" width="50" height="45"/>
+<img align="left" alt="Node" width="50" height="45" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" />
 <img align="left" alt="laravel" width="50" height="45" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" height="45"/>
 <img align="left" alt="mysql" width="70" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50" height="45"/>
 <img align="left" alt="Mongo" width="80" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
 <img align="left" alt="js" width="50" height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="50" height="45"/>
 <img align="left" alt="SQL" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="java" width="50" height="45" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png" />
+<img align="left" alt="java" width="50" height="45" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 
 
 
