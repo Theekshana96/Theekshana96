@@ -1,10 +1,11 @@
 <h2> Hi, I'm Dilshan Theekshana....👋</h2>
 
-- 💞️ I’m passionate in Web Development
-- 💬 Ask me about Laravel, MySQL, MERN Stack
+- 💞️ I’m passionate in full stack Web Development
+- 🌱 I’m currently learning MERN Stack, Firebase
+- 💬 Ask me about Laravel, MySQL
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: theekshanajayarathne@gmail.com
-- ⚡ Fun fact: I love playing Online Games
+- ⚡ Fun fact: I love playing online Games
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
