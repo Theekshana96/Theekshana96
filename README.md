@@ -11,7 +11,6 @@
 <img align="left" alt="react" width="50" height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="node" width="50" height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="express" width="50" height="45" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="mysql" width="50" height="45"/>
-<img align="left" alt="nodemon" width="50" height="45" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" />
 <img align="left" alt="laravel" width="50" height="45" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" height="45"/>
 <img align="left" alt="mysql" width="70" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50" height="45"/>
 <img align="left" alt="mongo" width="80" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
