@@ -5,17 +5,16 @@
 - 💬 Ask me about Laravel, MySQL
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: theekshanajayarathne@gmail.com
-- ⚡ Fun fact: I love playing online Games
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <img align="left" alt="react" width="50" height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="node" width="50" height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="express" width="50" height="45" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="mysql" width="50" height="45"/>
-<img align="left" alt="laravel" width="50" height="45" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50" height="45"/>
-<img align="left" alt="mysql" width="70" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50" height="45"/>
+<img align="left" alt="express" width="50" height="45" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="mysql" />
+<img align="left" alt="laravel" width="50" height="45" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />
+<img align="left" alt="mysql" width="70" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
 <img align="left" alt="mongo" width="80" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
-<img align="left" alt="js" width="50" height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" width="50" height="45"/>
+<img align="left" alt="js" width="50" height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
 <img align="left" alt="SQL" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="java" width="50" height="45" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 
@@ -40,7 +39,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 </br>
-<a href="theekshanajayarathne@gmail.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="facebook" width="40" height="40"/> </a>
+<a href="mailto:theekshanajayarathne@gmail.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="facebook" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/dilshan-theekshana" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 <a href="https://stackoverflow.com/users/15058027/dilshan-theekshana" target="_blank"> <img align="left" alt="stackoverflow" width="40" height="40" src="https://i.ibb.co/GkH8ss6/apple-touch-icon-2.png" /></a>
 <a href="https://www.hackerrank.com/Dilshan96" target="_blank"> <img align="left" alt="hackerrank" width="40" height="40" src="https://i.ibb.co/WWkmJdP/Hacker-Rank-Icon-1000px.png" /></a> 
