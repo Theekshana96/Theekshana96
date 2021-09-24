@@ -1,4 +1,4 @@
-<h2> Hi, I'm Dilshan Theekshana....👋</h2>
+<h2> Hi, I'm Dilshan Theekshana...👋</h2>
 
 - 💞️ I’m passionate in full stack Web Development
 - 🌱 I’m currently learning MERN Stack, Firebase
