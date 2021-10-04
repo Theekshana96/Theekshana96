@@ -37,7 +37,7 @@
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 </br>
 <a href="mailto:theekshanajayarathne@gmail.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="facebook" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/dilshan-theekshana" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
