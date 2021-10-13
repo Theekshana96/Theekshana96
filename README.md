@@ -1,6 +1,6 @@
 <h2> Hi, I'm Dilshan Theekshana...👋</h2>
 
-- 💞️ I’m passionate in full stack Web Development
+- 💞️ I’m passionate in Full Stack Web Development
 - 🌱 I’m currently learning MERN Stack, Firebase
 - 💬 Ask me about Laravel, MySQL
 - 👯 I’m looking to collaborate with other content creators
@@ -36,6 +36,17 @@
 <p align="center"><img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
 
+<h2>Activity Graph <img src= "https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width = 32px></h2>
+<!-- https://github.com/Theekshana96//github-readme-activity-graph -->
+<a href="https://github.com/Theekshana96/github-readme-activity-graph"><img alt="Dilshan Theekshana/'s Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Theekshana96&theme=react-dark&hide_border=true" /></a>
+<br />
+<!--START_SECTION:waka-->
+
+<br />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Theekshana96&no-frame=true&row=1&column=7&theme=radical" alt="Theekshana96" /></a> </p>
+<br />
+
+
 
 <h2> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 </br>
@@ -50,4 +61,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Theekshana96&label=Profile%20views&color=0e75b6&style=flat" alt="Theekshana96" /></p>
 <p align="center"> <img src="https://badges.pufler.dev/years/Theekshana96" alt="Theekshana96" />
 
+ <br />
  
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
