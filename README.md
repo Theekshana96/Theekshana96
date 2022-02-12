@@ -36,14 +36,6 @@
 <p align="center"><img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
 
-<h2>Activity Graph <img src= "https://media.giphy.com/media/VTErXIe8Q2kf0vMk11/giphy.gif" width = 32px></h2>
-
-<a href="https://github.com/Theekshana96/github-readme-activity-graph"><img alt="Dilshan Theekshana/'s Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Theekshana96&theme=react-dark&hide_border=true" /></a>
-<br />
-
-
-<br />
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Theekshana96&no-frame=true&row=1&column=7&theme=radical" alt="Theekshana96" /></a> </p>
 <br />
 
 
