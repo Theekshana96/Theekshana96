@@ -16,7 +16,6 @@
 <img align="left" alt="mongo" width="80" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
 <img align="left" alt="aws" width="80" height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
 <img align="left" alt="js" width="50" height="45" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
-<img align="left" alt="SQL" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="java" width="50" height="45" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 
 
