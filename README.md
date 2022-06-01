@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: theekshanajayarathne@gmail.com
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills </h2>
 
 <img align="left" alt="react" width="50" height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="node" width="50" height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
@@ -25,7 +25,7 @@
 
 
 
-<h2>Stats <img src = "https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif?cid=ecf05e47zpy2p0ufbyvd1652j0gydr1qt7he8o5suenzr0vp&rid=giphy.gif&ct=s" width = 32px></h2>
+<h2>Stats </h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Theekshana96&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshana96&theme=radical"/>|
 |---|---|
@@ -40,7 +40,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&
 
 
 
-<h2> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect With Me  </h2>
 </br>
 <a href="mailto:theekshanajayarathne@gmail.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="facebook" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/dilshan-theekshana" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
