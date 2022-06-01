@@ -30,15 +30,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Theekshana96&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshana96&theme=radical"/>|
 |---|---|
 
-
-<h2>Most Used Languages <img src = "https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif?cid=ecf05e47vfcgm2h4scxocnaqdfr33vhvjzpfclhgfdrinxe7&rid=giphy.gif&ct=ts" width = 60px></h2>
-</br>
-<p align="center"><img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
-
 <br />
-
-
 
 <h2> Connect With Me  </h2>
 </br>
