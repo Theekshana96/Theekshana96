@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: theekshanajayarathne@gmail.com
 
-<h2> Skills </h2>
+<h2>Skills</h2>
 
 <img align="left" alt="react" width="50" height="45" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="node" width="50" height="45" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
@@ -25,7 +25,7 @@
 
 
 
-<h2>Stats </h2>
+<h2>Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Theekshana96&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshana96&theme=radical"/>|
 |---|---|
