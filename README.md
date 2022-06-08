@@ -29,6 +29,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Theekshana96&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshana96&theme=radical"/>|
 |---|---|
+<br />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Theekshana96&no-frame=true&row=1&column=7&theme=radical" alt="Theekshana96" /></a> </p>
+<br />
 
 <br />
 
