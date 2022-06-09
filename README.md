@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dilshan Theekshana</h1>
 <h3 align="center">A passionate full stack developer from SriLanka</h3>
+<br />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana96&label=Profile%20views&color=0e75b6&style=flat" alt="theekshana96" /> <img src="https://badges.pufler.dev/years/Theekshana96" alt="Theekshana96" /> </p>
 
 
 - 🌱 I’m currently learning **MERN Stack, Firebase**
-
 - 👯 I’m looking to collaborate **with other content creators**
-
 - 💬 Ask me about **MERN, Laravel, MySQL**
-
 - 📫 How to reach me **theekshanajayarathne@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -29,11 +27,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Theekshana96&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshana96&theme=radical"/>|
 |---|---|
-</br>
 <p align="center"><img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
-
-</br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Theekshana96&no-frame=true&row=1&column=7&theme=radical" alt="Theekshana96" /></a> </p>
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
