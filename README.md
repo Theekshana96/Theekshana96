@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: theekshanajayarathne@gmail.com
 
-<h2>🙋‍♂️ Connect With Me </h2>
+<h2>🙋‍♂️ Connect with me </h2>
 <a href="mailto:theekshanajayarathne@gmail.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="facebook" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/dilshan-theekshana" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 <a href="https://stackoverflow.com/users/15058027/dilshan-theekshana" target="_blank"> <img align="left" alt="stackoverflow" width="40" height="40" src="https://i.ibb.co/GkH8ss6/apple-touch-icon-2.png" /></a>
