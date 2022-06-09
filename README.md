@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate **with other content creators**
 - 💬 Ask me about **MERN, Laravel, MySQL**
 - 📫 How to reach me **theekshanajayarathne@gmail.com**
-- ⚡ Interests: 🎧 Music , 📷 Photography, 🚶‍♂️ Travelling, 🎯 Gaming
+- ⚡ Interests: 🎧 Music ,🚶‍♂️ Travelling, 🎯 Gaming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
