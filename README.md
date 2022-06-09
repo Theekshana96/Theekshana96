@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/dilshantheeks96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dilshantheeks96" height="30" width="40" /></a>
+<a href="https://twitter.com/DilshanTheeks96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/DilshanTheeks96" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dilshan-theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilshan-theekshana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15058027/dilshan-theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15058027/dilshan-theekshana" height="30" width="40" /></a>
 <a href="https://theekshanajayarathne.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://theekshanajayarathne.medium.com" height="30" width="40" /></a>
