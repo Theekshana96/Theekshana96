@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilshan Theekshana</h1>
-<h3 align="center">A passionate full stack developer from SriLanka</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana96&label=Profile%20views&color=0e75b6&style=flat" alt="theekshana96" /> <img src="https://badges.pufler.dev/years/Theekshana96" alt="Theekshana96" /> </p>
