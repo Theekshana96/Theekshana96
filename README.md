@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana96&label=Profile%20views&color=0e75b6&style=flat" alt="Theekshana96" /> <img src="https://badges.pufler.dev/years/Theekshana96" alt="Theekshana96" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana96&label=Profile%20views&color=0e75b6&style=flat" alt="Theekshana96" /></p>
 
 
 - 🌱 I’m currently learning **MERN Stack, Firebase**
@@ -29,4 +29,5 @@
 |--|--|
 <p align="center"><img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
+<p align="center"><img align="center" src="https://badges.pufler.dev/years/Theekshana96" alt="Theekshana96" /></p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
