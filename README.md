@@ -29,5 +29,3 @@
 |--|--|
 <p align="center"><img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
-<p align="center"><img align="center" src="https://badges.pufler.dev/years/Theekshana96" alt="Theekshana96" /></p>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
